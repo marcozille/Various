@@ -13,6 +13,7 @@ IMPLEMENT_DYNAMIC(CMDVSEdit, CEdit)
 CMDVSEdit::CMDVSEdit()
 {
 	m_bHover = false;
+// Ciao bello
 }
 
 CMDVSEdit::~CMDVSEdit()
